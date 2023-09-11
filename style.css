@@ -1,0 +1,21 @@
+
+h1{
+    color: #00b4c5;
+    background: black;
+    font-family: Arial;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    color: #00bf7d;
+    font-family: Times;
+    font-style: normal;
+    line-height: normal;
+    text-align: center;
+}
+h3{
+    color: #0073e6;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    text-align: center;
+}
